@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_gameFragment_to_gameOverFragment" type="id" />
+    <item name="action_gameOverFragment_to_gameFragment" type="id" />
+</resources>
